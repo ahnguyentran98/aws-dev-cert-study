@@ -84,6 +84,7 @@ You update the post, but someone else might update it at the same time.
 * If the version in DB is still 2, your update succeeds (and you might increment the version to 3).
 * If not (someone else updated), your update fails. You can handle this in your code.
 
+![alt text](../resource/image_9.png)
 ---
 
 ## **Slide Reference**
